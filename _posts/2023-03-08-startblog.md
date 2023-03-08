@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "첫 깃헙블로그 포스팅"
-categories: blog001
 ---
 
 <!-- tags: [test]
+categories: blog001
 published: true
 toc: true
 toc_sticky: true
@@ -34,7 +34,7 @@ comments: true
 ## 유튜브 동영상
 
 > 유튜브 영상
-{% include video id="pa8dy7-23tI" provider="youtube" %}
+{% include video id="oHYM2BSc1c0" provider="youtube" %}
 
 
 ## 이미지 
