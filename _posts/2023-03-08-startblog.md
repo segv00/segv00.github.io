@@ -42,7 +42,7 @@ comments: true
 
 > 이미지
 ![Cat1]({{site.url}}/145bb4de7bdf793d16e3b221caf9ce90.jpg)
-![Cell]({{site.url}}/images/2021-03-01-image2.png)
+![Cat2]({{site.url}}/fe4d85256fa8404106bb0a1d7a9aa2e8.png)
 
 ## 더 자세한 깃헙 블로깅 팁
 - [테디노트](https://youtube.com/playlist?list=PLIMb_GuNnFwfMm3alTSOmDK4AnpdG7USY)
