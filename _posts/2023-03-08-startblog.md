@@ -2,16 +2,18 @@
 layout: single
 title: "첫 깃헙블로그 포스팅"
 categories: blog001
-tags: [test]
+---
+
+<!-- tags: [test]
 published: true
 toc: true
 toc_sticky: true
-toc_label: 목차
----
+toc_label: 목차 -->
 <!-- description: "test01"
 headline: "test01-headline"
 comments: true
  -->
+ 
 **[공지사항]** [BTG 링크](https://sites.google.com/view/brain-theory-group-pknu)
 
 마크다운으로 블로그 내용을 작성할 수 있습니다. 
